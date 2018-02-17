@@ -1,2 +1,2 @@
 # hello-world
-readne-edits changes
+readme-edits changes
